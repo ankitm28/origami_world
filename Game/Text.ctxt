@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Text
+comment0.text=\n\ Write\ a\ description\ of\ class\ Text\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=str\ size\ foreground\ background
+comment1.target=Text(java.lang.String,\ int,\ greenfoot.Color,\ greenfoot.Color)
+comment1.text=\n\ Constructor\ that\ sets\ up\ attributes\ of\ the\ image.\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ Text\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment3.params=str
+comment3.target=void\ setText(java.lang.String)
+comment3.text=\n\ Method\ that\ helps\ change\ the\ text\ once\ written.\n
+numComments=4

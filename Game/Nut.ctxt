@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Nut
+comment0.text=\n\ Write\ a\ description\ of\ class\ Nut\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Nut()
+comment1.text=\n\ Constructor\ of\ the\ Nut\ class\ which\ sets\ up\ the\ shooting\ speed\n\ and\ helps\ control\ the\ score.\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ Nut\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment3.params=
+comment3.target=boolean\ IsOutOfRange()
+comment3.text=\n\ this\ method\ checks\ if\ the\ bullet\ has\ reached\ the\ edge\ of\ \ the\ world.\n
+numComments=4

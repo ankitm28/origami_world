@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Origami_Bird
+comment0.text=\n\ Write\ a\ description\ of\ class\ Origami_Bird\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Origami_Bird()
+comment1.text=\n\ Constructor\ of\ the\ bird\ class.\n\ Instansiates\ images,\ and\ sets\ up\ some\ counters\ that\ help\ \n\ nuts\ shoot.\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ creates\ animation\ of\ the\ bird,\ creates\ gravity\ that\n\ gives\ bird\ flying\ motion\ and\ shoots\ the\ nuts\ when\ space\ is\ pressed.\n
+comment3.params=
+comment3.target=void\ animation()
+comment3.text=\n\ code\ that\ change\ images\ to\ create\ animation.\n
+comment4.params=
+comment4.target=void\ shoot()
+comment4.text=\n\ code\ that\ helps\ bird\ shoot.\n
+comment5.params=
+comment5.target=boolean\ atTopEdge()
+numComments=6
